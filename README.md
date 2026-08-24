@@ -21,6 +21,7 @@ churn-prediction-project/
 ├── data/
 │   ├── raw/            # Original, unmodified data (placeholder for future weeks)
 │   └── processed/      # Cleaned / feature-engineered data (placeholder)
+├── models/             # Trained models and prediction threshold
 ├── notebooks/          # Jupyter notebooks for EDA, modeling, evaluation
 ├── src/                # Reusable Python scripts (data cleaning, features, models)
 ├── reports/
