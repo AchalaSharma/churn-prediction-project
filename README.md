@@ -55,7 +55,7 @@ Model Validation → Model Evaluation → Interpretation → Business Insights
 | Week | Focus                                                | Status         |
 |------|-------------------------------------------------------|----------------|
 | 1    | Project Planning & Strategy Design                     | ✅ Complete    |
-| 2    | Detailed EDA & Visualization Framework                 | ⏳ Upcoming    |
+| 2    | Detailed EDA & Visualization Framework                 | ✅ Complete    |
 | 3    | Model Development, Training & Evaluation                | ⏳ Upcoming    |
 | 4    | Final Insights, Deployment Plan & Presentation           | ⏳ Upcoming    |
 
