@@ -1,7 +1,7 @@
 # Customer Churn Prediction and Retention Analysis Using Machine Learning
 
 **YuvaIntern — Virtual Data Science Explorer Internship**
-Hypothetical Data Science project planned and developed over a 4-week internship.
+Data Science project planned and developed over a 4-week internship.
 
 ## Project Overview
 
