@@ -10,7 +10,7 @@ banking, insurance, SaaS). This project proposes a machine learning-based framew
 predict which customers are at high risk of churning, so that targeted retention
 strategies can be considered.
 
-This project is treated as a
+This project is treated as an
 **end-to-end Data Science workflow** — from problem definition through
 model evaluation and business insight generation.
 
